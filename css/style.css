@@ -1,0 +1,110 @@
+@charset "UTF-8";
+@font-face{
+    font-family: 'FonteLogo';
+    src: url("../_fonts/Playball-Regular.ttf");
+}
+.nome{
+    font-size: 18pt;
+    font-family: 'FonteLogo';
+    color: rgba(184, 134 , 11, .8);
+}
+.navbar{
+    background-color: rgba(121, 209, 180, 0.8);
+}
+
+.collapse{
+
+    font-family: Helvetica;
+    margin-left: 350px;
+}
+.margin{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.quem-sou{
+    color: #ffffff;
+    background-color: rgba(184, 134 , 11, .8);
+}
+.quem-sou img{
+    padding-top: 20px;
+}
+
+.quemsoutext {
+    padding-top: 80px;
+    
+}
+.quemsoutext h3 {
+    font-family: 'FonteLogo';
+    font-size: 30pt ;
+    text-align: center;
+}
+.quemsoutext h2{
+    margin: 20px;
+    font-family: Helvetica;
+    font-size: 15pt;
+    text-align: justify;
+}
+.paragrafo {
+    font-size: 13pt;
+    color: #827B79;
+    text-align: justify;
+
+}
+.bg-footer{
+    background-color:rgba(0, 47, 100, 0.8) ;
+    color: #ffffff;
+    font-family: Helvetica;
+    font-size: 10pt;
+}
+.contato{
+    background-color:#FFCD8E;
+    font-family: 'FonteLogo';
+    color: #ffffff;
+}
+.marginT img{
+    padding-bottom: 15px;
+}
+.marginT{
+    padding-top: 80px;
+   
+}
+.whatsapp{
+    background-color: green;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 4px;
+    font-family: Helvetica;
+    
+}
+.group{
+
+    background-color: #ffffff;
+    width: 100%;
+    padding: 1.3rem 0;
+    border: 1px solid lightgray;
+    color: #000000;
+    font-family: Helvetica;
+}
+legend {
+    text-align: left;
+    color: #888888;
+    font-weight: bolder;
+    font-size: 13pt;
+    font-family: sans-serif;
+}
+
+input, textarea {
+    
+    font-family: Helvetica;
+    font-weight: normal;
+    font-size: 13pt;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+input:hover ,textarea:hover{
+    background-color: #dddddd;
+}
+fieldset{
+    border-color: #cecece;
+    margin: 20px;
+}
+
